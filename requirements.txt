@@ -1,0 +1,1 @@
+mkdocs-material==9.6.14   # pin for reproducible CI builds; bump deliberately
